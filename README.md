@@ -31,3 +31,8 @@ with the dataset deposit.
 - Processing and export code for the dataset deposit
 - Data dictionary and per-column source attribution
 - Deposit DOI and citation
+
+## Licence
+
+Code is released under the BSD 2-Clause License (see `LICENSE`). Data files
+keep the licences of their sources, listed above.
