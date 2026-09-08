@@ -22,10 +22,3 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
----
-
-Scope. This licence covers the source code in this repository. The data files
-served with the Coastal Infrastructure Explorer (the data/ directory on the
-gh-pages branch) are derived from third-party sources and keep the licences of
-those sources, which are listed in README.md. They are not relicensed here.

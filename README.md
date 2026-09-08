@@ -34,5 +34,8 @@ with the dataset deposit.
 
 ## Licence
 
-Code is released under the BSD 2-Clause License (see `LICENSE`). Data files
-keep the licences of their sources, listed above.
+The source code in this repository is released under the BSD 2-Clause License
+(see `LICENSE`). That licence covers code only. The data files served with the
+explorer (the `data/` directory on the `gh-pages` branch) are derived from
+third-party sources and keep the licences of those sources, listed above. They
+are not relicensed here.
